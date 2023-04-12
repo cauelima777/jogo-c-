@@ -1,0 +1,15 @@
+D:\Area de trabalho\jogo c#\bin\Debug\net7.0\jogo c#.exe
+D:\Area de trabalho\jogo c#\bin\Debug\net7.0\jogo c#.deps.json
+D:\Area de trabalho\jogo c#\bin\Debug\net7.0\jogo c#.runtimeconfig.json
+D:\Area de trabalho\jogo c#\bin\Debug\net7.0\jogo c#.dll
+D:\Area de trabalho\jogo c#\bin\Debug\net7.0\jogo c#.pdb
+D:\Area de trabalho\jogo c#\obj\Debug\net7.0\jogo c#.csproj.AssemblyReference.cache
+D:\Area de trabalho\jogo c#\obj\Debug\net7.0\jogo c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Area de trabalho\jogo c#\obj\Debug\net7.0\jogo c#.AssemblyInfoInputs.cache
+D:\Area de trabalho\jogo c#\obj\Debug\net7.0\jogo c#.AssemblyInfo.cs
+D:\Area de trabalho\jogo c#\obj\Debug\net7.0\jogo c#.csproj.CoreCompileInputs.cache
+D:\Area de trabalho\jogo c#\obj\Debug\net7.0\jogo c#.dll
+D:\Area de trabalho\jogo c#\obj\Debug\net7.0\refint\jogo c#.dll
+D:\Area de trabalho\jogo c#\obj\Debug\net7.0\jogo c#.pdb
+D:\Area de trabalho\jogo c#\obj\Debug\net7.0\jogo c#.genruntimeconfig.cache
+D:\Area de trabalho\jogo c#\obj\Debug\net7.0\ref\jogo c#.dll
